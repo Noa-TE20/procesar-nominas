@@ -3,3 +3,4 @@ pdf2image==1.17.0
 pdfplumber==0.11.9
 pikepdf==10.5.1
 pytesseract==0.3.13
+ocrmypdf==17.4.2
